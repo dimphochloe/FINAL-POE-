@@ -1,0 +1,25 @@
+﻿<Window x:Class="Recipe_Manager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Recipe_Manager"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FFB7B5B5">
+        <Label Content="WELCOME TO RECIPE MANAGER!" HorizontalAlignment="Center" Margin="0,20,0,0" VerticalAlignment="Top" Width="236" FontWeight="Bold" FontSize="14"/>
+        <Label Content="PLEASE SELECT AN OPTION&#xD;&#xA;" HorizontalAlignment="Center" Margin="0,49,0,0" VerticalAlignment="Top" Width="170" Height="27" FontWeight="Bold" FontStyle="Italic"/>
+        <Rectangle HorizontalAlignment="Center" Height="175" Margin="0,83,0,0" Stroke="#FF81A9F7" VerticalAlignment="Top" Width="188" StrokeDashCap="Round" Fill="White" StrokeThickness="2"/>
+        <Label Content="1. ADD RECIPE" HorizontalAlignment="Left" Margin="317,88,0,0" VerticalAlignment="Top"/>
+        <Label Content="2. REMOVE RECIPE" HorizontalAlignment="Left" Margin="317,111,0,0" VerticalAlignment="Top"/>
+        <Label Content="3. DISPLAY RECIPE" HorizontalAlignment="Left" Margin="317,134,0,0" VerticalAlignment="Top"/>
+        <Label Content="4. SCALE RECIPE" HorizontalAlignment="Left" Margin="317,156,0,0" VerticalAlignment="Top"/>
+        <Label Content="5. RESET A RECIPE" HorizontalAlignment="Left" Margin="316,180,0,0" VerticalAlignment="Top"/>
+        <Label Content="6. CLEAR ALL DATA" HorizontalAlignment="Left" Margin="315,202,0,0" VerticalAlignment="Top"/>
+        <Label Content="7. EXIT" HorizontalAlignment="Left" Margin="315,225,0,0" VerticalAlignment="Top" Width="44"/>
+        <TextBox x:Name="txtOption" HorizontalAlignment="Left" Margin="421,269,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="71" TextChanged="txtOption_TextChanged" Height="23" BorderBrush="#FF81A9F7" BorderThickness="2,2,2,2"/>
+        <Label Content="ENTER AN OPTION:" HorizontalAlignment="Left" Margin="301,268,0,0" VerticalAlignment="Top" FontWeight="Bold" FontStyle="Italic" Width="125"/>
+        <Button Content="SUBMIT" HorizontalAlignment="Center" Margin="0,304,0,0" VerticalAlignment="Top" Width="166" Height="28" Background="#9981A9F7" BorderBrush="#FF76A3FB" Click="Button_Click" FontWeight="Bold" BorderThickness="2,2,2,2"/>
+
+    </Grid>
+</Window>

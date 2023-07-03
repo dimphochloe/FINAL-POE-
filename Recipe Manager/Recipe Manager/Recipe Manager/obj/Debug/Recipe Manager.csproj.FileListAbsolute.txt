@@ -1,0 +1,64 @@
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\bin\Debug\Recipe Manager.exe.config
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\bin\Debug\Recipe Manager.exe
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\bin\Debug\Recipe Manager.pdb
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.csproj.AssemblyReference.cache
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\obj\Debug\MainWindow.g.cs
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\obj\Debug\App.g.cs
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager_MarkupCompile.cache
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager_MarkupCompile.lref
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\obj\Debug\MainWindow.baml
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.g.resources
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe_Manager.Properties.Resources.resources
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.csproj.GenerateResource.cache
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.csproj.CoreCompileInputs.cache
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.exe
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.pdb
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\obj\Debug\Add_Recipe.g.cs
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\obj\Debug\Add_Recipe.baml
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\obj\Debug\Display_Recipe.g.cs
+C:\Users\Student Account\Desktop\Dintle\Recipe Manager\Recipe Manager\obj\Debug\Display_Recipe.baml
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\bin\Debug\Recipe Manager.exe.config
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\bin\Debug\Recipe Manager.exe
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\bin\Debug\Recipe Manager.pdb
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.csproj.AssemblyReference.cache
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\obj\Debug\Add_Recipe.g.cs
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\obj\Debug\Display_Recipe.g.cs
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\obj\Debug\MainWindow.g.cs
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\obj\Debug\App.g.cs
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager_MarkupCompile.cache
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager_MarkupCompile.lref
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\obj\Debug\Add_Recipe.baml
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\obj\Debug\Display_Recipe.baml
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\obj\Debug\MainWindow.baml
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.g.resources
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe_Manager.Properties.Resources.resources
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.csproj.GenerateResource.cache
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.csproj.CoreCompileInputs.cache
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.exe
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.pdb
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\obj\Debug\Clear_All.g.cs
+C:\Users\Student Account\Desktop\ \Dintle\Recipe Manager\Recipe Manager\obj\Debug\Clear_All.baml
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\bin\Debug\Recipe Manager.exe.config
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\bin\Debug\Recipe Manager.exe
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\bin\Debug\Recipe Manager.pdb
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.csproj.AssemblyReference.cache
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\obj\Debug\Add_Recipe.g.cs
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\obj\Debug\Clear_All.g.cs
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\obj\Debug\Display_Recipe.g.cs
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\obj\Debug\MainWindow.g.cs
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\obj\Debug\App.g.cs
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager_MarkupCompile.cache
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager_MarkupCompile.lref
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\obj\Debug\Add_Recipe.baml
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\obj\Debug\Clear_All.baml
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\obj\Debug\Display_Recipe.baml
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\obj\Debug\MainWindow.baml
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.g.resources
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\obj\Debug\Recipe_Manager.Properties.Resources.resources
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.csproj.GenerateResource.cache
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.csproj.CoreCompileInputs.cache
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.exe
+C:\Users\Chloe\Downloads\Recipe Manager\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.pdb
